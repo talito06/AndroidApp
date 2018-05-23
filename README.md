@@ -1,0 +1,2 @@
+# AndroidApp
+I did this app on my android class. Using two tabs and SQl time, I can white on each tab and if i close the app everything that I wrote it stated save, I have also, an setting activity.. Also, another activity with some buttons which I can change the color of the Toobar. And i can change the colors of the Main Activity too and if I close the App the last color that was press is save using sharedpreferences to save the colors.
